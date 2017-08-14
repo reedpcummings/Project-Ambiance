@@ -1,0 +1,25 @@
+Project Ambiance
+1)	Get music
+	a.	Literally how to receive
+		i.	Audio receiver in computer? 
+		ii.	Another receiver connected to computer?
+			1.	Wired connection or bluetooth
+2)	Send clip 
+	a.	How do we send the clip/signal
+	b.	Where do we send the clip
+3)	Match song
+	a.	Receive the song
+		i.	 Do we constantly have to be actively trying to receive or send signal with clip
+	b.	How do we match?
+		i.	using a complete program?
+		ii.	Do we need a database to test against?
+			1.	Do we have access to said database?
+4)	Pull info on song
+	a.	Where do we pull from?
+		i.	A program searching google with song title?
+	b.	What info do we want on song? Just album?
+5)	Display info
+	a.	On computer?
+6)	Create light show
+	a.	One color per album? Per song?
+	b.	7 colors changing at a steady pace
